@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **charanvir123@gmail.com**
 
+- View some of my pinned projects below, or click on repositories to see all of the projects/applications that I have worked on/am working on!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chsingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chsingh01" height="30" width="40" /></a>
