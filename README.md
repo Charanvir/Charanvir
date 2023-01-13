@@ -66,6 +66,3 @@ Repository Management:
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Charanvir&theme=dark&hide_border=true&sideLabels=DD2727&stroke=DD2727)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charanvir&layout=compact&theme=vision-friendly-dark)](https://github.com/Charanvir/github-readme-stats)
-
