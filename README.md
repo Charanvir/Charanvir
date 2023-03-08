@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Welcome to my GitHub page. I am always looking to improve my coding skills and learn new languages. I love working on both sides of the stack and seeing a project come together in its entirety. I love to collaborate with other developers and build cool and exciting projects. View some of my projects, or send me a message via one of my socials and I would love to have a quick chat. Happy Coding!
+Welcome to my GitHub page. I am always looking to improve my coding skills and learn new languages, frameworks and libraries. I love working on both sides of the stack and seeing a project come together in its entirety. I love to collaborate with other developers and build cool and exciting projects. View some of my projects, or send me a message via one of my socials and I would love to have a quick chat. Happy Coding!
 
 * 🌍  I'm based in Brampton, Ontario
 * 🖥️  See my portfolio at [https://charanvir.github.io/charanvirs-portfolio/](http://charanvir.github.io/charanvirs-portfolio/)
